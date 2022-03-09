@@ -50,7 +50,9 @@ gympass = Traningspass( x, y, z) #Passet som läggs till i dagenspass
 ```
 Sedan i slutet är Main funktionen som är huvudkontrollpanelen där man väljer vad man ska göra.
 
-## Förbättringspotenial
+## Förbättringspotenial/Contribution
+###
+Man får förbättre koden på olika sätt får därför ta kod. Diskussioner om förändringer är väldigt välkomna.
 ### Fixa så det är enklare att välja i början med menyn
 Göra det enklare att välja så man t.e.x slipper skriva Registrera i din träningsdagbok.
 ### GÖra en grafisk del så det blir mer komplett och snyggt.
